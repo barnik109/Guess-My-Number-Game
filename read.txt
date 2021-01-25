@@ -1,0 +1,1 @@
+Git clone and run the game.py file in your device
